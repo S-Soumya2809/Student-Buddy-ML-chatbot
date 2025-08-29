@@ -11,7 +11,7 @@ The project includes both a backend (Flask + ML model) and a frontend (HTML, CSS
 🗂️ Repository Structure
 ```
 
-STUDENT\_BUDDY\_ML\_CHATBOT/
+```STUDENT\_BUDDY\_ML\_CHATBOT/
 │
 ├── backend/                   # Backend files
 │   ├── app.py                 # Flask backend (API endpoints)
@@ -107,6 +107,7 @@ You can now chat with Student Buddy 🎉
 * 🎯 Implement student progress tracking.
 * 🌐 Deploy chatbot as a live web app (Heroku / AWS / Render).
 * 🎮 Add gamification features (leaderboards, quizzes).
+
 
 
 
