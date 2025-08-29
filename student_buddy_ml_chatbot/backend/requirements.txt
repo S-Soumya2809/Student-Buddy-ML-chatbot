@@ -1,0 +1,7 @@
+STUDENT_BUDDY_CHATBOT_REQUIREMENTS
+
+flask
+flask-cors
+scikit-learn
+pandas
+joblib
